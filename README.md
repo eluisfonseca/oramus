@@ -1,12 +1,10 @@
-# ReduxSimpleStarter
+# Oramus
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Testcase project to familiarize myself with React. Basically, it's a church calendar. Why? Because when was the last time you needed to know which saint to praise and didnt know how? Pr. Boilerplate base on Stephen Grider's [ReduxSimpleStarte](https://github.com/StephenGrider/ReduxSimpleStarter). Also, check his tutorials on UDEMY.
 
 ###Getting Started###
 
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
+####From Git#####
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
@@ -16,8 +14,8 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 	> npm start
 ```
 
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+####Without Git commands#####
+Dwnload this project's .zip file.  Extract the contents of the zip file, open your terminal, change to the project directory and:
 
 ```
 	> npm install
