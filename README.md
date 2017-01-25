@@ -1,6 +1,7 @@
 # Oramus
 
-Testcase project to familiarize myself with React. Basically, it's a church calendar. Why? Because when was the last time you needed to know which saint to praise and didnt know how? Pr. Boilerplate base on Stephen Grider's [ReduxSimpleStarte](https://github.com/StephenGrider/ReduxSimpleStarter). Also, check his tutorials on UDEMY.
+Testcase project to familiarize myself with React. Basically, it's a church calendar. Why? Because when was the last time you needed to know which saint to praise and didnt know how? 
+Project boilerplate based on Stephen Grider's [ReduxSimpleStarte](https://github.com/StephenGrider/ReduxSimpleStarter). Also, check his tutorials on UDEMY.
 
 ###Getting Started###
 
